@@ -141,32 +141,6 @@ def tianqi():
     windows.mainloop()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def yueli():
     print('---------------------------------')
     yy = int(input("输入年份: "))
